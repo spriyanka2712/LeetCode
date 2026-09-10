@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/spriyanka2712/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/spriyanka2712/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,4 +142,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/spriyanka2712/LeetCode/tree/master/0048-rotate-image) |
+| [0498-diagonal-traverse](https://github.com/spriyanka2712/LeetCode/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/spriyanka2712/LeetCode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
