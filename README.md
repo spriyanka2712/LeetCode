@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/spriyanka2712/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/spriyanka2712/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/spriyanka2712/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/spriyanka2712/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/spriyanka2712/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/spriyanka2712/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/spriyanka2712/LeetCode/tree/master/0202-happy-number) |
 | [0390-elimination-game](https://github.com/spriyanka2712/LeetCode/tree/master/0390-elimination-game) |
 ## Combinatorics
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/spriyanka2712/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/spriyanka2712/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/spriyanka2712/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/spriyanka2712/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/spriyanka2712/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/spriyanka2712/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/spriyanka2712/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/spriyanka2712/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
