@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/spriyanka2712/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/spriyanka2712/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/spriyanka2712/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/spriyanka2712/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/spriyanka2712/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/spriyanka2712/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/spriyanka2712/LeetCode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/spriyanka2712/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/spriyanka2712/LeetCode/tree/master/0390-elimination-game) |
 ## Merge Sort
 |  |
