@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/spriyanka2712/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/spriyanka2712/LeetCode/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/spriyanka2712/LeetCode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/spriyanka2712/LeetCode/tree/master/0507-perfect-number) |
 ## Combinatorics
 |  |
 | ------- |
