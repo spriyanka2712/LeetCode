@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/spriyanka2712/LeetCode/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/spriyanka2712/LeetCode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/spriyanka2712/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/spriyanka2712/LeetCode/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/spriyanka2712/LeetCode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/spriyanka2712/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/spriyanka2712/LeetCode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/spriyanka2712/LeetCode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/spriyanka2712/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/spriyanka2712/LeetCode/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -67,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/spriyanka2712/LeetCode/tree/master/0143-reorder-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/spriyanka2712/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
