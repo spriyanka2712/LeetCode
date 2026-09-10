@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/spriyanka2712/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/spriyanka2712/LeetCode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/spriyanka2712/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/spriyanka2712/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/spriyanka2712/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/spriyanka2712/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0229-majority-element-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/spriyanka2712/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/spriyanka2712/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
