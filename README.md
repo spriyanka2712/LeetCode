@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/spriyanka2712/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/spriyanka2712/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/spriyanka2712/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/spriyanka2712/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/spriyanka2712/LeetCode/tree/master/0053-maximum-subarray) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/spriyanka2712/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/spriyanka2712/LeetCode/tree/master/0049-group-anagrams) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spriyanka2712/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/spriyanka2712/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/spriyanka2712/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
