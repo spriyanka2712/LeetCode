@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/spriyanka2712/LeetCode/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/spriyanka2712/LeetCode/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/spriyanka2712/LeetCode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
