@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/spriyanka2712/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/spriyanka2712/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/spriyanka2712/LeetCode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/spriyanka2712/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/spriyanka2712/LeetCode/tree/master/0189-rotate-array) |
 | [0390-elimination-game](https://github.com/spriyanka2712/LeetCode/tree/master/0390-elimination-game) |
 ## Combinatorics
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/spriyanka2712/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/spriyanka2712/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/spriyanka2712/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/spriyanka2712/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/spriyanka2712/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/spriyanka2712/LeetCode/tree/master/0020-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/spriyanka2712/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
