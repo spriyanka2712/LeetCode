@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/spriyanka2712/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/spriyanka2712/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/spriyanka2712/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/spriyanka2712/LeetCode/tree/master/0125-valid-palindrome) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spriyanka2712/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/spriyanka2712/LeetCode/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/spriyanka2712/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/spriyanka2712/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/spriyanka2712/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/spriyanka2712/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/spriyanka2712/LeetCode/tree/master/0148-sort-list) |
