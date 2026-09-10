@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/spriyanka2712/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/spriyanka2712/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/spriyanka2712/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/spriyanka2712/LeetCode/tree/master/0392-is-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spriyanka2712/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/spriyanka2712/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/spriyanka2712/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/spriyanka2712/LeetCode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/spriyanka2712/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/spriyanka2712/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/spriyanka2712/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/spriyanka2712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/spriyanka2712/LeetCode/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
