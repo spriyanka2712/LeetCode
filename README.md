@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/spriyanka2712/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/spriyanka2712/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/spriyanka2712/LeetCode/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -28,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/spriyanka2712/LeetCode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/spriyanka2712/LeetCode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/spriyanka2712/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/spriyanka2712/LeetCode/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -109,4 +114,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/spriyanka2712/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
