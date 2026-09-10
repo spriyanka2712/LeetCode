@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/spriyanka2712/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/spriyanka2712/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/spriyanka2712/LeetCode/tree/master/0049-group-anagrams) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spriyanka2712/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/spriyanka2712/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/spriyanka2712/LeetCode/tree/master/0143-reorder-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/spriyanka2712/LeetCode/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/spriyanka2712/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
