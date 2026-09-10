@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/spriyanka2712/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/spriyanka2712/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/spriyanka2712/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/spriyanka2712/LeetCode/tree/master/0258-add-digits) |
 | [0390-elimination-game](https://github.com/spriyanka2712/LeetCode/tree/master/0390-elimination-game) |
 ## Combinatorics
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/spriyanka2712/LeetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/spriyanka2712/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Sliding Window
 |  |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/spriyanka2712/LeetCode/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/spriyanka2712/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
