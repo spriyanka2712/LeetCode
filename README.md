@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/spriyanka2712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/spriyanka2712/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/spriyanka2712/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spriyanka2712/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/spriyanka2712/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/spriyanka2712/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/spriyanka2712/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/spriyanka2712/LeetCode/tree/master/0383-ransom-note) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spriyanka2712/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/spriyanka2712/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/spriyanka2712/LeetCode/tree/master/0383-ransom-note) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spriyanka2712/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
