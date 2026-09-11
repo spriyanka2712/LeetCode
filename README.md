@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/spriyanka2712/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/spriyanka2712/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/spriyanka2712/LeetCode/tree/master/0819-most-common-word) |
+| [0832-flipping-an-image](https://github.com/spriyanka2712/LeetCode/tree/master/0832-flipping-an-image) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/spriyanka2712/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/spriyanka2712/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/spriyanka2712/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/spriyanka2712/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/spriyanka2712/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/spriyanka2712/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/spriyanka2712/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/spriyanka2712/LeetCode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/spriyanka2712/LeetCode/tree/master/0832-flipping-an-image) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/spriyanka2712/LeetCode/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/spriyanka2712/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0832-flipping-an-image](https://github.com/spriyanka2712/LeetCode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/spriyanka2712/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/spriyanka2712/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/spriyanka2712/LeetCode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/spriyanka2712/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/spriyanka2712/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
