@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/spriyanka2712/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/spriyanka2712/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/spriyanka2712/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/spriyanka2712/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/spriyanka2712/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/spriyanka2712/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/spriyanka2712/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
