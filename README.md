@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/spriyanka2712/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/spriyanka2712/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/spriyanka2712/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/spriyanka2712/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/spriyanka2712/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1670-design-front-middle-back-queue](https://github.com/spriyanka2712/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Hash Table
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/spriyanka2712/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/spriyanka2712/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/spriyanka2712/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/spriyanka2712/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Combinatorics
 |  |
 | ------- |
