@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/spriyanka2712/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/spriyanka2712/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/spriyanka2712/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/spriyanka2712/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/spriyanka2712/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/spriyanka2712/LeetCode/tree/master/0832-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
