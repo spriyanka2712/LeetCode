@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/spriyanka2712/LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2942-find-words-containing-character](https://github.com/spriyanka2712/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/spriyanka2712/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2974-minimum-number-game](https://github.com/spriyanka2712/LeetCode/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/spriyanka2712/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3151-special-array-i](https://github.com/spriyanka2712/LeetCode/tree/master/3151-special-array-i) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/spriyanka2712/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/spriyanka2712/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/spriyanka2712/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/spriyanka2712/LeetCode/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/spriyanka2712/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3467-transform-array-by-parity](https://github.com/spriyanka2712/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/spriyanka2712/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/spriyanka2712/LeetCode/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/spriyanka2712/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/spriyanka2712/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/spriyanka2712/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2974-minimum-number-game](https://github.com/spriyanka2712/LeetCode/tree/master/2974-minimum-number-game) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/spriyanka2712/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/spriyanka2712/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
