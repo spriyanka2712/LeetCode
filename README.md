@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/spriyanka2712/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1925-count-square-sum-triples](https://github.com/spriyanka2712/LeetCode/tree/master/1925-count-square-sum-triples) |
 ## Combinatorics
 |  |
 | ------- |
@@ -486,4 +487,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/spriyanka2712/LeetCode/tree/master/1534-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/spriyanka2712/LeetCode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
