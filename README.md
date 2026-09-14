@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/spriyanka2712/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/spriyanka2712/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/spriyanka2712/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/spriyanka2712/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/spriyanka2712/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Combinatorics
 |  |
 | ------- |
