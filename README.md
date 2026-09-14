@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/spriyanka2712/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/spriyanka2712/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/spriyanka2712/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Hash Table
 |  |
 | ------- |
