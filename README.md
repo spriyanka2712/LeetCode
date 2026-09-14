@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/spriyanka2712/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/spriyanka2712/LeetCode/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/spriyanka2712/LeetCode/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/spriyanka2712/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/spriyanka2712/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1670-design-front-middle-back-queue](https://github.com/spriyanka2712/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Hash Table
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/0867-transpose-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/spriyanka2712/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
