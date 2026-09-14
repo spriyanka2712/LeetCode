@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/spriyanka2712/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/spriyanka2712/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/spriyanka2712/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3783-mirror-distance-of-an-integer](https://github.com/spriyanka2712/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Combinatorics
 |  |
 | ------- |
