@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/spriyanka2712/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/spriyanka2712/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/spriyanka2712/LeetCode/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/spriyanka2712/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3151-special-array-i](https://github.com/spriyanka2712/LeetCode/tree/master/3151-special-array-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/spriyanka2712/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/spriyanka2712/LeetCode/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/spriyanka2712/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2540-minimum-common-value](https://github.com/spriyanka2712/LeetCode/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/spriyanka2712/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/spriyanka2712/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/spriyanka2712/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/spriyanka2712/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/spriyanka2712/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2540-minimum-common-value](https://github.com/spriyanka2712/LeetCode/tree/master/2540-minimum-common-value) |
 | [3884-first-matching-character-from-both-ends](https://github.com/spriyanka2712/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/spriyanka2712/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/spriyanka2712/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/spriyanka2712/LeetCode/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
