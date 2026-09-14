@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/spriyanka2712/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/spriyanka2712/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/spriyanka2712/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/spriyanka2712/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/spriyanka2712/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3151-special-array-i](https://github.com/spriyanka2712/LeetCode/tree/master/3151-special-array-i) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/spriyanka2712/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/spriyanka2712/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/spriyanka2712/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/spriyanka2712/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/spriyanka2712/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/spriyanka2712/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Trie
