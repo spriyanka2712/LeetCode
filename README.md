@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/spriyanka2712/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/spriyanka2712/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/spriyanka2712/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/spriyanka2712/LeetCode/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/spriyanka2712/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/spriyanka2712/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
