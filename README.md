@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/spriyanka2712/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/spriyanka2712/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/spriyanka2712/LeetCode/tree/master/1952-three-divisors) |
 ## Combinatorics
 |  |
 | ------- |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/spriyanka2712/LeetCode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/spriyanka2712/LeetCode/tree/master/1952-three-divisors) |
 ## Queue
 |  |
 | ------- |
@@ -490,4 +492,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/spriyanka2712/LeetCode/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/spriyanka2712/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/spriyanka2712/LeetCode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/spriyanka2712/LeetCode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/spriyanka2712/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
