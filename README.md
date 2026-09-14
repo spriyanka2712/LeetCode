@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/spriyanka2712/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/spriyanka2712/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/spriyanka2712/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/spriyanka2712/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1670-design-front-middle-back-queue](https://github.com/spriyanka2712/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Hash Table
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/spriyanka2712/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/spriyanka2712/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/spriyanka2712/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/spriyanka2712/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/spriyanka2712/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/spriyanka2712/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/spriyanka2712/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Counting
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/spriyanka2712/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/spriyanka2712/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/spriyanka2712/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/0867-transpose-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
