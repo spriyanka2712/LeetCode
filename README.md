@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/spriyanka2712/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/spriyanka2712/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/spriyanka2712/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3467-transform-array-by-parity](https://github.com/spriyanka2712/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/spriyanka2712/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/spriyanka2712/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/spriyanka2712/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3467-transform-array-by-parity](https://github.com/spriyanka2712/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/spriyanka2712/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spriyanka2712/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3467-transform-array-by-parity](https://github.com/spriyanka2712/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
