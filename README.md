@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/spriyanka2712/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spriyanka2712/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/spriyanka2712/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3110-score-of-a-string](https://github.com/spriyanka2712/LeetCode/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
