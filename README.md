@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/spriyanka2712/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-count-special-quadruplets](https://github.com/spriyanka2712/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/spriyanka2712/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/spriyanka2712/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/spriyanka2712/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3151-special-array-i](https://github.com/spriyanka2712/LeetCode/tree/master/3151-special-array-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/spriyanka2712/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spriyanka2712/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/spriyanka2712/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/spriyanka2712/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/spriyanka2712/LeetCode/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/spriyanka2712/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/spriyanka2712/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/spriyanka2712/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/spriyanka2712/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/spriyanka2712/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/spriyanka2712/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/spriyanka2712/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
