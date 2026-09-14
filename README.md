@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/spriyanka2712/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/spriyanka2712/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/spriyanka2712/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/spriyanka2712/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/spriyanka2712/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1670-design-front-middle-back-queue](https://github.com/spriyanka2712/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Hash Table
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/spriyanka2712/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0942-di-string-match](https://github.com/spriyanka2712/LeetCode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/spriyanka2712/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/spriyanka2712/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/spriyanka2712/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/spriyanka2712/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/spriyanka2712/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/spriyanka2712/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Combinatorics
 |  |
 | ------- |
