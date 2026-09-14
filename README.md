@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/spriyanka2712/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/spriyanka2712/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/spriyanka2712/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2235-add-two-integers](https://github.com/spriyanka2712/LeetCode/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/spriyanka2712/LeetCode/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/spriyanka2712/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/spriyanka2712/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
