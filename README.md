@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/spriyanka2712/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3151-special-array-i](https://github.com/spriyanka2712/LeetCode/tree/master/3151-special-array-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/spriyanka2712/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/spriyanka2712/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1995-count-special-quadruplets](https://github.com/spriyanka2712/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/spriyanka2712/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## String
 |  |
 | ------- |
