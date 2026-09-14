@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/spriyanka2712/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/spriyanka2712/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/spriyanka2712/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/spriyanka2712/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/spriyanka2712/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3151-special-array-i](https://github.com/spriyanka2712/LeetCode/tree/master/3151-special-array-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/spriyanka2712/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/spriyanka2712/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/spriyanka2712/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/spriyanka2712/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Math
 |  |
 | ------- |
