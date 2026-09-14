@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/spriyanka2712/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/spriyanka2712/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-count-special-quadruplets](https://github.com/spriyanka2712/LeetCode/tree/master/1995-count-special-quadruplets) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/spriyanka2712/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/spriyanka2712/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3151-special-array-i](https://github.com/spriyanka2712/LeetCode/tree/master/3151-special-array-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spriyanka2712/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/spriyanka2712/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1995-count-special-quadruplets](https://github.com/spriyanka2712/LeetCode/tree/master/1995-count-special-quadruplets) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/spriyanka2712/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/spriyanka2712/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/spriyanka2712/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/spriyanka2712/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/spriyanka2712/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spriyanka2712/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/spriyanka2712/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/spriyanka2712/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/spriyanka2712/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
