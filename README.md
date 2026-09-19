@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/spriyanka2712/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/spriyanka2712/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/spriyanka2712/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/spriyanka2712/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/spriyanka2712/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/spriyanka2712/LeetCode/tree/master/0125-valid-palindrome) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/spriyanka2712/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/spriyanka2712/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/spriyanka2712/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/spriyanka2712/LeetCode/tree/master/0062-unique-paths) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/spriyanka2712/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/spriyanka2712/LeetCode/tree/master/0022-generate-parentheses) |
 ## Newton's Method
 |  |
 | ------- |
@@ -733,4 +736,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/spriyanka2712/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/spriyanka2712/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/spriyanka2712/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/spriyanka2712/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
