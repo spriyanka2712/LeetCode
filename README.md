@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/spriyanka2712/LeetCode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/spriyanka2712/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/spriyanka2712/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2643-row-with-maximum-ones](https://github.com/spriyanka2712/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/spriyanka2712/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/spriyanka2712/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/spriyanka2712/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/spriyanka2712/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/spriyanka2712/LeetCode/tree/master/2418-sort-the-people) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/spriyanka2712/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2942-find-words-containing-character](https://github.com/spriyanka2712/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/spriyanka2712/LeetCode/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/spriyanka2712/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/spriyanka2712/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/spriyanka2712/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/spriyanka2712/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/spriyanka2712/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/spriyanka2712/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/spriyanka2712/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
