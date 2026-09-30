@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/spriyanka2712/LeetCode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/spriyanka2712/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/spriyanka2712/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/spriyanka2712/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/spriyanka2712/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/spriyanka2712/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/spriyanka2712/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/spriyanka2712/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/spriyanka2712/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/spriyanka2712/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/spriyanka2712/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Math
 |  |
 | ------- |
