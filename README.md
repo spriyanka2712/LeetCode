@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/spriyanka2712/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/spriyanka2712/LeetCode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/spriyanka2712/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/spriyanka2712/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/spriyanka2712/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3917-count-indices-with-opposite-parity](https://github.com/spriyanka2712/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/spriyanka2712/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/spriyanka2712/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/spriyanka2712/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/spriyanka2712/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/spriyanka2712/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Prime Factorization
 |  |
 | ------- |
