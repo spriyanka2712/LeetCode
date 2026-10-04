@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/spriyanka2712/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/spriyanka2712/LeetCode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/spriyanka2712/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3866-first-unique-even-element](https://github.com/spriyanka2712/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/spriyanka2712/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/spriyanka2712/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3917-count-indices-with-opposite-parity](https://github.com/spriyanka2712/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/spriyanka2712/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/spriyanka2712/LeetCode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/spriyanka2712/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3866-first-unique-even-element](https://github.com/spriyanka2712/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/spriyanka2712/LeetCode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/spriyanka2712/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/spriyanka2712/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/spriyanka2712/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3866-first-unique-even-element](https://github.com/spriyanka2712/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
