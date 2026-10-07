@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/spriyanka2712/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/spriyanka2712/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/spriyanka2712/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/spriyanka2712/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/0867-transpose-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/spriyanka2712/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/spriyanka2712/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/spriyanka2712/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/spriyanka2712/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
