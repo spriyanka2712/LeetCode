@@ -810,4 +810,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/spriyanka2712/LeetCode/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/spriyanka2712/LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
