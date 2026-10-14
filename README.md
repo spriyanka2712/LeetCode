@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/spriyanka2712/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/spriyanka2712/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/spriyanka2712/LeetCode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/spriyanka2712/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/spriyanka2712/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/spriyanka2712/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/spriyanka2712/LeetCode/tree/master/0509-fibonacci-number) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/spriyanka2712/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/spriyanka2712/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/spriyanka2712/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/spriyanka2712/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/spriyanka2712/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/spriyanka2712/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/spriyanka2712/LeetCode/tree/master/0645-set-mismatch) |
