@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/spriyanka2712/LeetCode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/spriyanka2712/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/spriyanka2712/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/spriyanka2712/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3866-first-unique-even-element](https://github.com/spriyanka2712/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/spriyanka2712/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/spriyanka2712/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/spriyanka2712/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/spriyanka2712/LeetCode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/spriyanka2712/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/spriyanka2712/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
