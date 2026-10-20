@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/spriyanka2712/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/spriyanka2712/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/spriyanka2712/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3861-minimum-capacity-box](https://github.com/spriyanka2712/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/spriyanka2712/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/spriyanka2712/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/spriyanka2712/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
