@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/spriyanka2712/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/spriyanka2712/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/spriyanka2712/LeetCode/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/spriyanka2712/LeetCode/tree/master/3959-check-good-integer) |
 ## Combinatorics
 |  |
 | ------- |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/spriyanka2712/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/spriyanka2712/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/spriyanka2712/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/spriyanka2712/LeetCode/tree/master/3959-check-good-integer) |
 ## Sliding Window
 |  |
 | ------- |
